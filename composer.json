@@ -1,9 +1,9 @@
 {
-    "name": "Aarizkuren",
+    "name": "aarizkuren/ModelBundle",
     "type": "symfony-bundle",
     "description": "Aarizkuren Model bundle",
     "keywords": ["Model"],
-    "homepage": "http://aarizkuren.net",
+    "homepage": "http://arizkuren.net",
     "license": "all rights reserved",
     "authors": [
         {
