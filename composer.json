@@ -18,6 +18,6 @@
         "doctrine/dbal": "2.*"
     },
     "autoload": {
-        "psr-4": { "AArizkuren\\ModelBundle": "" }
+        "psr-4": { "AArizkuren\\ModelBundle\\": "" }
     }
 }
