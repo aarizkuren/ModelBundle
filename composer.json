@@ -4,7 +4,7 @@
     "description": "Aarizkuren Model bundle",
     "keywords": ["Model"],
     "homepage": "http://arizkuren.net",
-    "license": "all rights reserved",
+    "license": "MIT",
     "authors": [
         {
             "name": "Asier Arizkuren",
@@ -18,13 +18,6 @@
         "doctrine/dbal": "2.*"
     },
     "autoload": {
-        "psr-0": { "AArizkuren": "" }
-    },
-    "target-dir": "AArizkuren",
-    "extra": {
-        "branch-alias": {
-            "master": "1.0.0-dev",
-            "dev-separateCode": "2.0.0-dev"
-        }
+        "psr-4": { "AArizkuren\\ModelBundle": "" }
     }
 }
